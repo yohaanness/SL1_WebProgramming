@@ -92,7 +92,7 @@
                 <td><?php echo $_SESSION['nikSession'] ?></td>  
             </tr>
             <tr>
-                <td>Username</td>
+                <td>Warga Negara</td>
                 <td><?php echo $_SESSION['warganegaraSession'] ?></td>  
                 <td>Email</td>
                 <td><?php echo $_SESSION['emailSession'] ?></td>  
